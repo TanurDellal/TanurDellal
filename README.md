@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final year project and developing a game!<br>🌱 I’m currently learning to use React.js <br>💬 Ask me about games and coffee<br>⚡ Fun fact: I will get a 1st in my degree
+🔭 I’m currently working on my final year project and developing a game!<br>🌱 I’m currently learning to use React.js <br>💬 Ask me about games, personal development and coffee<br>⚡ (not so very) Fun fact: I'm allergic to cats and pollen
 
 
 ## 🌐 Socials:
